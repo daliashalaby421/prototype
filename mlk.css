@@ -12,11 +12,16 @@ iframe {
 }
 
 .bottomleft{
-	position: relative;
+	position: fixed;
 	left: 16px;
 	max-width: 100%;
-	height: auto/9;
-	widgth: auto/9;
+	bottom: 16px;
 	
+}
+
+img {
+	height: auto;
+	widght: auto/9;
+	overflow: hidden;
 }
 
