@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+iframe {
+	max-width: 100%;
+	height: auto/9;
+	width: auto/9;
+	background-color:black;
+}
+
+.bottomleft{
+	position: relative;
+	left: 16px;
+	max-width: 100%;
+	height: auto/9;
+	widgth: auto/9;
+	
+}
+
